@@ -1,4 +1,4 @@
-# RLHF-Model-Alignment
+# How to align model with human feedback
 This repository offers a comprehensive collection of tutorials, best practices, and valuable references for data-centric model development using the Reinforcement Learning from Human Feedback (RLHF) methodology. As data scientist practitioners, our goal is to maintain transparency in the underlying mechanisms while primarily focusing on the effective collection and processing of data to align open-source foundational models with targeted objectives.
 
 The data-centric RLHF model alignment journey consists of 3 key steps:
