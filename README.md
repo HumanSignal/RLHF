@@ -7,6 +7,8 @@
 - [Gathering and Incorporating Human Feedback](#gathering-and-incorporating-human-feedback)
 - [Training and Assessing the Final Model with Reinforcement Learning](#training-and-assessing-the-final-model-with-reinforcement-learning)
 
+![Stages of model alignment](./images/RLHF.png)
+
 ## What this repository contains:
 This repository contains a collection of tutorials, best practices, and references for developers, data scientists, and machine learning professionals of all skill levels. 
 
