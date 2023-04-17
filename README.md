@@ -1,11 +1,30 @@
 # Aligning ML Models with Human Feedback
+
+## What this repository contains:
+This repository contains a collection of tutorials, best practices, and references for developers, data scientists, and machine learning professionals of all skill levels. 
+
+### This repo may be of interest to you if: 
+- You've attended the PyData Berlin Talk by [Nikolai Liubimov](https://www.linkedin.com/in/liubimov/) and [Erin Mikail Staples](https://www.linkedin.com/in/erinmikail/)
+- You're interested in data-centric model development
+- You're using [Label Studio](https://labelstud.io) to improve your ML process and models.
+
+### If you have any questions about this repo, or need a hand:
+- This repo is maintained by the [Label Studio](https://labelstud.io) team. 
+- Reach out to the [Label Studio Community Team](mailto:community@labelstud.io) or open an issue with any questions.
+- Join the [Label Studio Community Slack](https://join.slack.com/t/label-studio/shared_invite/zt-1s3hcleqe-hsVYIDypClUZbp~DDuQa1g)
+
+
 This repository offers a comprehensive collection of tutorials, best practices, and valuable references for data-centric model development using the Reinforcement Learning from Human Feedback (RLHF) methodology. As data scientist practitioners, our goal is to maintain transparency in the underlying mechanisms while primarily focusing on the effective collection and processing of data to align open-source foundational models with targeted objectives.
 
 The data-centric RLHF model alignment journey consists of 3 key steps:
 
-- [Establishing Supervised Model Baseline](#establishing-supervised-model-baseline)
-- [Gathering and Incorporating Human Feedback](#gathering-and-incorporating-human-feedback)
-- [Training and Assessing the Final Model with Reinforcement Learning](#training-and-assessing-the-final-model-with-reinforcement-learning)
+- [Aligning ML Models with Human Feedback](#aligning-ml-models-with-human-feedback)
+  - [What this repository contains:](#what-this-repository-contains)
+    - [This repo may be of interest to you if:](#this-repo-may-be-of-interest-to-you-if)
+    - [If you have any questions about this repo, or need a hand:](#if-you-have-any-questions-about-this-repo-or-need-a-hand)
+  - [Establishing Supervised Model Baseline](#establishing-supervised-model-baseline)
+  - [Gathering and Incorporating Human Feedback](#gathering-and-incorporating-human-feedback)
+  - [Training and Assessing the Final Model with Reinforcement Learning](#training-and-assessing-the-final-model-with-reinforcement-learning)
 
 ## Establishing Supervised Model Baseline
 In this step, we collect labeled text data to train an initial Large Language Model (LLM), focusing on task-specific performance improvements. This stage involves gathering instructions and responses to adapt the base model to a broad range of tasks, enhancing its ability to generate accurate and contextually relevant responses.
