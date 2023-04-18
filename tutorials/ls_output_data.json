@@ -1,0 +1,1826 @@
+[
+  {
+    "id": 401635,
+    "annotations": [
+      {
+        "id": 68045,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "Sba4F4tuVh",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:20.457543Z",
+        "updated_at": "2023-04-17T21:54:20.457580Z",
+        "lead_time": 12.51,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "80f751c6-c26a-47ef-9eea-8208d33a172a",
+        "last_action": null,
+        "task": 401635,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What is the latest news on the stock market?",
+      "answer1": "Let the spotlight shine on something big, something that matters. If you haven't picked up on this year's stocks market (which will likely be over for a few months), then you may be missing",
+      "answer2": "Here are 5 things you should know about the market's stock performance this past week.\n\nMARCH 1 UPDATE\n\nA few weeks ago, The Wall Street Journal said that U."
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689509Z",
+    "updated_at": "2023-04-17T21:54:20.494417Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401636,
+    "annotations": [
+      {
+        "id": 68046,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "ctzsT_2BwS",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:25.905373Z",
+        "updated_at": "2023-04-17T21:54:25.905420Z",
+        "lead_time": 5.228,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d89dbfb4-a81a-4914-8a1f-adeda6143633",
+        "last_action": null,
+        "task": 401636,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What is the current state of the economy?",
+      "answer1": "I'm seeing some of the data back on here, about how much we need to increase our business expenditures. In a recent report, the Congressional Budget Office's Bureau of Economic Analysis estimated that the",
+      "answer2": "I think we've seen some progress on this. When I came to politics, I heard a lot about how you talk about you and how you were \"taking the fight to Wall Street.\" I"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689600Z",
+    "updated_at": "2023-04-17T21:54:25.943155Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401637,
+    "annotations": [
+      {
+        "id": 68047,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "zesEg6XXxp",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:29.067807Z",
+        "updated_at": "2023-04-17T21:54:29.067834Z",
+        "lead_time": 3.002,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c21bd5c4-d424-4202-aac5-e495997b754e",
+        "last_action": null,
+        "task": 401637,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest developments in technology?",
+      "answer1": "Will it ever be able to be incorporated into existing devices?\n\nThis survey started as a conversation about how technology might help people better understand their own personal data. When there's a large body of data,",
+      "answer2": "This has been the most difficult aspect of my career, due to multiple sources I have already spoken with, the amount of people who knew and had close relationships with the developers and the way they dealt with"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689662Z",
+    "updated_at": "2023-04-17T21:54:29.101730Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401638,
+    "annotations": [
+      {
+        "id": 68048,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "w-z3BSG09V",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:32.730112Z",
+        "updated_at": "2023-04-17T21:54:32.730135Z",
+        "lead_time": 3.513,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "295fa97a-06f1-46f8-8bba-422fb11c6980",
+        "last_action": null,
+        "task": 401638,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What is the political situation in the Middle East?",
+      "answer1": "The Arab League, of course, is very concerned about what's going on in the Middle East, and for that, the West is not necessarily going to keep to the model they have,",
+      "answer2": "On the one hand, we are dealing here with a crisis of the way, a period of uncertainty. But on the other hand, this crisis comes with a price. Our relationship with some"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689719Z",
+    "updated_at": "2023-04-17T21:54:32.759669Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401639,
+    "annotations": [
+      {
+        "id": 68049,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "lDkNZt7C6c",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:34.106777Z",
+        "updated_at": "2023-04-17T21:54:34.106810Z",
+        "lead_time": 1.225,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7c4855ea-8a9e-415a-94fe-1c805f3af941",
+        "last_action": null,
+        "task": 401639,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest trends in fashion and beauty?",
+      "answer1": "",
+      "answer2": "We believe the new trend we tend to see is the beauty trend and the rise of celebrity. A huge amount of young men are getting into fashion because they like the work and the money and"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689778Z",
+    "updated_at": "2023-04-17T21:54:34.142130Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401640,
+    "annotations": [
+      {
+        "id": 68050,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "A7VZ-4IPkV",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:40.054708Z",
+        "updated_at": "2023-04-17T21:54:40.054744Z",
+        "lead_time": 5.783,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ed87356c-4273-49bb-b35d-c10210a420fc",
+        "last_action": null,
+        "task": 401640,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the top travel destinations for this year?",
+      "answer1": "The travel categories are not broken up by country, but are rather organized into three segments: Australia (where your passport is valid), Germany (where it is valid), and Taiwan, where it",
+      "answer2": "1. LA, California 2. Phoenix, Arizona 3. Toronto, Ontario 4. Las Vegas, Nevada 5. Atlanta, Georgia 6. New York, New York\n\nIf you found"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689850Z",
+    "updated_at": "2023-04-17T21:54:40.088359Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401641,
+    "annotations": [
+      {
+        "id": 68051,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "wqZRfajJrS",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:42.792855Z",
+        "updated_at": "2023-04-17T21:54:42.792880Z",
+        "lead_time": 2.544,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e24f975d-9cb3-4304-bec9-79f4dbf0a726",
+        "last_action": null,
+        "task": 401641,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some healthy recipes for a vegan diet?",
+      "answer1": "This post is really long, so I wanted to stick to a quick little guide for what you need, so please refrain from commenting!\n\nIf you really want to know what's going",
+      "answer2": "1. Take a lot of water.\n\n2. Mix flour, vegetable oil, almond extract and cayenne pepper together with a mix bit more lightly. Mix well."
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689938Z",
+    "updated_at": "2023-04-17T21:54:42.825539Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401642,
+    "annotations": [
+      {
+        "id": 68052,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "AjGrm4_GlY",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:47.833039Z",
+        "updated_at": "2023-04-17T21:54:47.833069Z",
+        "lead_time": 4.883,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6ff073ba-4fae-4d11-9d6a-5cf62a150ea2",
+        "last_action": null,
+        "task": 401642,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the most important events happening in the world today?",
+      "answer1": "1. The fall of the Roman Empire\n\nOne of the most important events in humanity's history occurred the fall of Rome on December 31, 1446 and during that time the",
+      "answer2": "A global financial crisis triggered massive international recession, global economic turmoil, unprecedented financial crises in the 1990s, and a global financial meltdown, resulting in a global financial meltdown of unparalleled systemic"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.689994Z",
+    "updated_at": "2023-04-17T21:54:47.868204Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401643,
+    "annotations": [
+      {
+        "id": 68053,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "Bt4sdtZjtL",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:49.688670Z",
+        "updated_at": "2023-04-17T21:54:49.688699Z",
+        "lead_time": 1.703,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "27896962-7eac-407b-aefc-e4ea0cbb4c61",
+        "last_action": null,
+        "task": 401643,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some tips for improving mental health?",
+      "answer1": "One of the many things that people are good at and are working hard on is helping themselves and others get better. It's helpful to know your options.\n\nIn the past, mental health",
+      "answer2": "1) Get out there and have a conversation. Maybe some people won't talk. Maybe you have friends who don't agree with your mental health. The best thing is if they have experienced anything"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690051Z",
+    "updated_at": "2023-04-17T21:54:49.717007Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401644,
+    "annotations": [
+      {
+        "id": 68054,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "3BjKbmtwaN",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:56.464129Z",
+        "updated_at": "2023-04-17T21:54:56.464151Z",
+        "lead_time": 6.641,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fbc5faf6-b2c4-4860-959e-49832c32855a",
+        "last_action": null,
+        "task": 401644,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the best ways to save money for retirement?",
+      "answer1": "What types of investments need to have their own annual accounts?\n\nDo you find it essential to set up a account plan to help you make your own decisions on what to invest in",
+      "answer2": "First, there is a lot of great information online about how to pay for your retirement. This post has lots of links, as well as some great tips that will help you decide if"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690111Z",
+    "updated_at": "2023-04-17T21:54:56.495936Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401645,
+    "annotations": [
+      {
+        "id": 68055,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "gi-GTT9QvO",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:54:58.470877Z",
+        "updated_at": "2023-04-17T21:54:58.470905Z",
+        "lead_time": 1.854,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ff8a9ab5-1c9e-4de4-bd43-24b54de0d464",
+        "last_action": null,
+        "task": 401645,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some popular new books or movies?",
+      "answer1": "A very low number of books are sold digitally (as well as on social media sites) but most TV and radio shows (including many documentaries on film) have been available for a couple of years",
+      "answer2": "You've got to make them in real time. Just keep repeating the idea -- if a book gets more hits then it's getting more books to make. Let yourself get a few books to read by the"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690172Z",
+    "updated_at": "2023-04-17T21:54:58.504871Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401646,
+    "annotations": [
+      {
+        "id": 68056,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "xf_ZYmU8dZ",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:00.076099Z",
+        "updated_at": "2023-04-17T21:55:00.076121Z",
+        "lead_time": 1.465,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "83ceeb10-a8dc-4b6f-a96b-48a678b77d89",
+        "last_action": null,
+        "task": 401646,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some effective ways to reduce stress?",
+      "answer1": "(What you'll need\n\nIn short - Stress is something you're all about because of the actions and thinking that your system takes. The easiest way to reduce stress is to avoid it, take steps",
+      "answer2": "Well, it's easy to find those simple, but powerful ways that stress can actually work well in the face of adversity — things like that:\n\nWhen I was in high school, I"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690235Z",
+    "updated_at": "2023-04-17T21:55:00.108446Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401647,
+    "annotations": [
+      {
+        "id": 68057,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "PpeT2nKeuG",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:01.338344Z",
+        "updated_at": "2023-04-17T21:55:01.338372Z",
+        "lead_time": 1.11,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9535594d-6d44-4ecb-b597-5a28965dde3b",
+        "last_action": null,
+        "task": 401647,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest developments in artificial intelligence?",
+      "answer1": "How are the companies in the field working to improve our understanding about the nature of information?\n\nIn our research, we focused on research and development by researchers, especially those who may be more",
+      "answer2": "On the frontline of AI and beyond, Artificial Intelligence has been on the offensive for decades. Some of the most important advances in this field were first introduced in the 1960s and have been observed"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690295Z",
+    "updated_at": "2023-04-17T21:55:01.372145Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401648,
+    "annotations": [
+      {
+        "id": 68058,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "AnHQcR02Ml",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:05.729432Z",
+        "updated_at": "2023-04-17T21:55:05.729468Z",
+        "lead_time": 4.235,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ae845e47-905d-45fb-847b-f7db7718405b",
+        "last_action": null,
+        "task": 401648,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some top-rated restaurants in your city?",
+      "answer1": "In order to choose the right restaurant, we rely on the following criteria:\n\nYour area's reputation;\n\nYour staff's skills;\n\nIn all cases, you'll",
+      "answer2": "Let us know in the comments!"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690366Z",
+    "updated_at": "2023-04-17T21:55:05.762851Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401649,
+    "annotations": [
+      {
+        "id": 68059,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "AK4GUxYo9o",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:07.665882Z",
+        "updated_at": "2023-04-17T21:55:07.665914Z",
+        "lead_time": 1.786,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "525fac20-82dc-4150-b71a-bc2c970c3078",
+        "last_action": null,
+        "task": 401649,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the best ways to stay fit and healthy?",
+      "answer1": "In an article of the \"What Are You Doing at Work?\" category, FitIQ explained how to keep up with your body when it comes to exercise:\n\n\"To help you",
+      "answer2": "Find out with our simple answers, designed by a fitness enthusiast who doesn't hate anything but fitness!\n\nIf you know what exercises you'll need, you should try. Here on the Fit"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690550Z",
+    "updated_at": "2023-04-17T21:55:07.697648Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401650,
+    "annotations": [
+      {
+        "id": 68060,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "1-Xc3y6U7f",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:08.937173Z",
+        "updated_at": "2023-04-17T21:55:08.937206Z",
+        "lead_time": 1.131,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "87a3cddb-7d4e-4535-b1b6-e7a26971f7c9",
+        "last_action": null,
+        "task": 401650,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some tips for successful entrepreneurship?",
+      "answer1": "When your own business is first entering the market you might receive a few tips, especially if you are setting a goal.\n\nWhat are some tips for successful entrepreneurship? The sooner your goal is reached",
+      "answer2": "1. Avoid marketing scams\n\nIt has been said that you should NEVER advertise in print. It's pretty obvious that you need a professional if you don't want to get your clients to write about"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690633Z",
+    "updated_at": "2023-04-17T21:55:08.967158Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401651,
+    "annotations": [
+      {
+        "id": 68061,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "0Yow6k1iK9",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:11.785361Z",
+        "updated_at": "2023-04-17T21:55:11.785388Z",
+        "lead_time": 1.643,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "32a4cb78-b4e6-47f6-8001-8163857d6733",
+        "last_action": null,
+        "task": 401651,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some effective ways to improve productivity?",
+      "answer1": "What makes a good productivity manager? It is a decision made from within your organization that is made more often than not based on your experience rather than simply based on your own ideas, which are generally",
+      "answer2": "The productivity gains of the following three items can help people gain more productivity:\n\nIncreased focus on the task at hand. By increasing the amount of time in which they spend focused thinking about the"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690691Z",
+    "updated_at": "2023-04-17T21:55:11.815198Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401652,
+    "annotations": [
+      {
+        "id": 68062,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "Usdl7tWlWN",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:14.312547Z",
+        "updated_at": "2023-04-17T21:55:14.312573Z",
+        "lead_time": 2.382,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "87cc9a8b-5fae-4488-bd2e-44eb94ebbaf3",
+        "last_action": null,
+        "task": 401652,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest developments in climate change research?",
+      "answer1": "Read more\n\nDavid Brown, chairman of the IPCC, said some recent changes to the science, such as its analysis of the role of ocean warming due to human greenhouse effects, \"can only be",
+      "answer2": "Are we going to change that? What is the link between the various science communities being informed about the climate crisis? What are the causes of the problems we're facing? What needs to be done to"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690748Z",
+    "updated_at": "2023-04-17T21:55:14.344947Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401653,
+    "annotations": [
+      {
+        "id": 68063,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "JovbZHeb8M",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:15.796686Z",
+        "updated_at": "2023-04-17T21:55:15.796713Z",
+        "lead_time": 1.337,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ab36e09a-ac0f-4021-b87d-c0a00cf65159",
+        "last_action": null,
+        "task": 401653,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some top-rated TV shows or movies on streaming services?",
+      "answer1": "We love sports sports, but we're always looking for more good sports programming. It's usually a combination of great sports programming and great entertainment. The best sports programming has",
+      "answer2": "Comedy Central (CBS)\n\nComedy Central is the only cable channel in North America where you can catch up on current episode time and date from various networks."
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690803Z",
+    "updated_at": "2023-04-17T21:55:15.827660Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401654,
+    "annotations": [
+      {
+        "id": 68064,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "g4bcBpMnWM",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:17.330213Z",
+        "updated_at": "2023-04-17T21:55:17.330247Z",
+        "lead_time": 1.387,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a66f9fe6-996f-47a0-b23f-afb385b87159",
+        "last_action": null,
+        "task": 401654,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some fun activities to do on weekends?",
+      "answer1": "I work in the morning in the coffee kitchen, watching as girls and boys come to pick up their tea.\n\nWhere can I get my supplies?\n\nThere is no direct bus",
+      "answer2": "Share them with us at Facebook.com\/#!\/TravisBurdette @WUWTBruz\n\nRead more: [FULL LATEST ARTICLE]"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690859Z",
+    "updated_at": "2023-04-17T21:55:17.360784Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401655,
+    "annotations": [
+      {
+        "id": 68065,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "fjLOUCL-e_",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:18.728529Z",
+        "updated_at": "2023-04-17T21:55:18.728556Z",
+        "lead_time": 1.255,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a918f550-5060-4a16-8cc4-4d506058c3f4",
+        "last_action": null,
+        "task": 401655,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some effective ways to manage time and prioritize tasks?",
+      "answer1": "Do you have any tips on how that might help with scheduling and\/or time management in a business? If so, what strategies, actions or tips do you use? Let us know in",
+      "answer2": "Where do we start, etc.? Where do we begin, etc.?\n\nIt's a complex question, so there are a couple important things to consider:\n\nTime\n\nTime"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690913Z",
+    "updated_at": "2023-04-17T21:55:18.761339Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401656,
+    "annotations": [
+      {
+        "id": 68066,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "ZRYApDokfY",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:19.854068Z",
+        "updated_at": "2023-04-17T21:55:19.854109Z",
+        "lead_time": 0.97,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "057cf84f-6551-493e-b7e6-7a52fbe753a4",
+        "last_action": null,
+        "task": 401656,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest trends in home decor and design?",
+      "answer1": "Let us know.\n\n\nThe Best: For its long-standing mission of supporting home furnishings, The Woodlands is home furnishings creator, design editor for the website. Woodland's",
+      "answer2": ""
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.690968Z",
+    "updated_at": "2023-04-17T21:55:19.885554Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401657,
+    "annotations": [
+      {
+        "id": 68067,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "e-7vM_tvxw",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:21.643783Z",
+        "updated_at": "2023-04-17T21:55:21.643806Z",
+        "lead_time": 1.623,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5216c95c-6890-4dd7-abf9-3a54c7d3840d",
+        "last_action": null,
+        "task": 401657,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the best ways to develop a successful career?",
+      "answer1": "Many career paths consist of an individualization of a career process. There are two approaches which may help you to get there…\n\nYou can pick out specific opportunities or take an optional",
+      "answer2": "And when can I start building more? The process starts with a few basic questions. Do you want to learn anything new? If not, what do you prefer to learn or do when you do"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691024Z",
+    "updated_at": "2023-04-17T21:55:21.675914Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401658,
+    "annotations": [
+      {
+        "id": 68068,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "fORB2aH2-4",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:23.254890Z",
+        "updated_at": "2023-04-17T21:55:23.254915Z",
+        "lead_time": 1.471,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fb1ff0f7-4748-4e10-a53b-61fd4c89c882",
+        "last_action": null,
+        "task": 401658,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some popular new products or gadgets?",
+      "answer1": "There has been a long talk at CES 2014 that the future of devices is in the hands of new developers. The point being that, as in many industries, one of the primary benefits from being",
+      "answer2": "There are some popular new devices that we are working on that bring something new to the Tablets. For example, as mentioned previously:\n\n\nIn order to connect tablets to the mobile gaming app"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691080Z",
+    "updated_at": "2023-04-17T21:55:23.284868Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401659,
+    "annotations": [
+      {
+        "id": 68069,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "tJia5Rd782",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:24.989877Z",
+        "updated_at": "2023-04-17T21:55:24.989903Z",
+        "lead_time": 1.587,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c9fc7bc1-a1be-41b4-8338-308bd12df9db",
+        "last_action": null,
+        "task": 401659,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some effective ways to improve communication skills?",
+      "answer1": "The following is a list of examples of a general topic that all should address. Be patient when speaking about individual communication skills.\n\nPractice Your Own Businesses\n\nYour career and",
+      "answer2": "How to: Learn to focus on your communication when the world around you is constantly shifting, and at times you are constantly learning so you don't need to stop.\n\nOne or more"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691137Z",
+    "updated_at": "2023-04-17T21:55:25.019795Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401660,
+    "annotations": [
+      {
+        "id": 68070,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "D9ep5Be1in",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:26.322713Z",
+        "updated_at": "2023-04-17T21:55:26.322738Z",
+        "lead_time": 1.18,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ce932a8a-aa6a-436e-b27d-21ff5f2e51cd",
+        "last_action": null,
+        "task": 401660,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some tips for successful relationships?",
+      "answer1": "One of the most important things you should know when choosing to have a relationship with someone is that you should never be a \"couple who just loves each other for a day\".\n\nIf you have an",
+      "answer2": "We all know that men are often the best men, but there's no doubt that women are most successful when they're good at their jobs. The job that pays the highest paying job can give you"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691193Z",
+    "updated_at": "2023-04-17T21:55:26.360442Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401661,
+    "annotations": [
+      {
+        "id": 68071,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "CutnzASmKs",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:28.917100Z",
+        "updated_at": "2023-04-17T21:55:28.917126Z",
+        "lead_time": 2.45,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "287ce9e4-67a4-4488-82b9-dd7cb9378e95",
+        "last_action": null,
+        "task": 401661,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest developments in space exploration?",
+      "answer1": "The U.S. has spent more than $4 trillion in space exploration spending over the last 40 years, which includes the use of commercial spacecraft, space stations and space shuttles. Space",
+      "answer2": "I am thrilled that the ISS is on the move to the U.S., along with the SES and ISS. We are doing the most exciting things possible using space. NASA has shown that"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691280Z",
+    "updated_at": "2023-04-17T21:55:28.947885Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401662,
+    "annotations": [
+      {
+        "id": 68072,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "kgx38uCM0g",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:30.216583Z",
+        "updated_at": "2023-04-17T21:55:30.216617Z",
+        "lead_time": 1.149,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6c2bb7d8-422b-4188-8ee4-6227b20e407f",
+        "last_action": null,
+        "task": 401662,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some top-rated online courses or certifications?",
+      "answer1": "The major online programs for a bachelor's degree typically provide a degree from a private institution—usually in finance. Most programs, especially those funded by federal funding, offer only one online",
+      "answer2": "If you want to learn the business of finance, you need to have a good one.\n\nHere are seven of the best things you can do in the finance business in 6 months."
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691420Z",
+    "updated_at": "2023-04-17T21:55:30.250052Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401663,
+    "annotations": [
+      {
+        "id": 68073,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "hSCq5Q3xX4",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:31.508164Z",
+        "updated_at": "2023-04-17T21:55:31.508191Z",
+        "lead_time": 1.144,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "27846daf-1423-4545-b434-69bffc627005",
+        "last_action": null,
+        "task": 401663,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some effective ways to improve public speaking skills?",
+      "answer1": "There are many ways to improve public speaking skills. To start, ask yourself when you have used a word or phrase. Can I use it for the context you like better than your preferred",
+      "answer2": "There are many ways an entrepreneur could improve their public speaking skills. For example, start early with a good public speaking strategy that includes:\n\nUsing a wide range of media"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691541Z",
+    "updated_at": "2023-04-17T21:55:31.538016Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401664,
+    "annotations": [
+      {
+        "id": 68074,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "7HbWkmQ5sx",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:33.479101Z",
+        "updated_at": "2023-04-17T21:55:33.479151Z",
+        "lead_time": 1.814,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "afde71ec-02e0-4381-a13c-92ed8323d245",
+        "last_action": null,
+        "task": 401664,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are the latest trends in digital marketing?",
+      "answer1": "\"I'm talking about the business models\"\n\nFor most industries, media consumption is the main drivers of advertising revenue. However, not many companies focus just on targeting new audiences. Advertis",
+      "answer2": "The data is based on hundreds of studies and several thousand individual surveys. Here's a brief update on today:\n\nWhen it comes to digital marketing, it seems that consumers are increasingly consuming data from a"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691654Z",
+    "updated_at": "2023-04-17T21:55:33.510871Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401665,
+    "annotations": [
+      {
+        "id": 68075,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "right"
+            },
+            "id": "ab7Zy36b5G",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:34.483377Z",
+        "updated_at": "2023-04-17T21:55:34.483404Z",
+        "lead_time": 0.855,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f30e22f4-d3b5-4961-b99d-01760c0062da",
+        "last_action": null,
+        "task": 401665,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some fun and creative DIY projects?",
+      "answer1": "Check out this post.",
+      "answer2": "Let's start with the DIY project of creating a simple 3D printed wooden bar. A bar is created by placing a wooden handle and a wire, then placing a wire in the bottom of the"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691759Z",
+    "updated_at": "2023-04-17T21:55:34.517308Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 401666,
+    "annotations": [
+      {
+        "id": 68076,
+        "completed_by": 2,
+        "result": [
+          {
+            "value": {
+              "selected": "left"
+            },
+            "id": "k5M8iU0hHw",
+            "from_name": "comparison",
+            "to_name": "comparison",
+            "type": "pairwise",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-04-17T21:55:35.850690Z",
+        "updated_at": "2023-04-17T21:55:35.850713Z",
+        "lead_time": 1.228,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d6bd06b1-dcb9-4d7a-baf3-3d3c58e2ec6b",
+        "last_action": null,
+        "task": 401666,
+        "project": 183,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "65af2932-ls_input_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "prompt": "What are some effective ways to improve leadership skills?",
+      "answer1": "1. Encourage people to stay accountable to themselves\n\nWhen leaders behave themselves in a negative way, people often don't want to do things the way they wanted to do, they want",
+      "answer2": "To get to the bottom of leadership skills questions, in this post, we're going to use the most basic definitions for leadership in a career path (based on my personal experience):"
+    },
+    "meta": {},
+    "created_at": "2023-04-17T21:53:56.691863Z",
+    "updated_at": "2023-04-17T21:55:35.881548Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 183,
+    "updated_by": 2,
+    "comment_authors": []
+  }
+]
