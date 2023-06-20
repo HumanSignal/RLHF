@@ -20,7 +20,7 @@ This repository contains a collection of tutorials, best practices, and referenc
 ### If you have any questions about this repo, or need a hand:
 - This repo is maintained by the [Label Studio](https://labelstud.io) team. 
 - Reach out to the [Label Studio Community Team](mailto:community@labelstud.io) or open an issue with any questions.
-- Join the [Label Studio Community Slack](https://slack.labelstudio.heartex.com/?source=github-RLHF)
+- Join the [Label Studio Community Slack](https://slack.labelstud.io/?source=github-RLHF)
 - Check out more resources around Human in the Loop / RHLF in our [Awesome List](https://github.com/heartexlabs/awesome-human-in-the-loop/tree/master)
 
 
